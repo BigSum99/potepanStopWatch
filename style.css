@@ -1,0 +1,15 @@
+h3 {
+    text-align: center;
+    font-size: 30px;
+    height: 40px;
+}
+
+.Container {
+    width: 100%;
+    text-align: center;
+}
+#time {
+    display: inline-block;
+    text-align: center;
+    
+}
